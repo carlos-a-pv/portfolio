@@ -1,0 +1,236 @@
+{
+  "basics": {
+    "name": "Carlos Pérez Verano",
+    "label": "Estudiante de Ingeniería de Sistemas y Computación, estudiante y apasiondo por el desarrollo web",
+    "image": "/foto.webp",
+    "email": "carlospverano@gmail.com",
+    "phone": "+57 3147777902",
+    "url": "https://midu.dev",
+    "summary": "Estudiante de Ingeniería!!!",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Armenia, Quindio",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "carlos-perez-71b7b1184",
+        "url": "https://www.linkedin.com/in/carlos-perez-71b7b1184/"
+      },
+      {
+        "network": "X",
+        "username": "CarlosPerezVer6",
+        "url": "https://twitter.com/CarlosPerezVer6"
+      },
+      {
+        "network": "GitHub",
+        "username": "carlos-a-pv",
+        "url": "https://github.com/carlos-a-pv"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Pragma S.A",
+      "position": "Auxiliar de infraestructura",
+      "url": "https://www.pragma.co/es/",
+      "startDate": "2021-09-30",
+      "endDate": "2019-09",
+      "summary": "HICE ALGO!!!",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Pragma S.A",
+      "position": "Practicante de infraestructura",
+      "url": "https://www.pragma.co/es/",
+      "startDate": "2019-02-25",
+      "endDate": "2019-08-23",
+      "summary": "HICE ALGO!!!",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Universidad del Quindio",
+    "url": "https://www.uniquindio.edu.co/",
+    "area": "Ingeniería de Sistemas y Computación",
+    "studyType": "Bachelor",
+    "startDate": "2021-08-01",
+    "endDate": null,
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },
+  {
+    "institution": "Servicio nacional de aprendizake",
+    "url": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
+    "area": "Técnico en sistemas",
+    "studyType": "Bachelor",
+    "startDate": "2016-02-01",
+    "endDate": "2018-02-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }
+],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Nationalize",
+      "isActive": true,
+      "description": "App para conocer de donde proviene tu nombre",
+      "highlights": [
+        "Nacionalidad de tu nombre",
+        "Consumiendo un API"
+      ],
+      "url": "https://carlos-a-pv.github.io/nationalize/public/"
+    },
+    {
+      "name": "Guess who is?",
+      "isActive": true,
+      "description": "App juego adivinando el personaje con la imagen ",
+      "highlights": [
+        "Adivina quien es",
+        "interactivo"
+      ],
+      "url": "https://carlos-a-pv.github.io/nationalize/public/"
+    }
+  ]
+}
