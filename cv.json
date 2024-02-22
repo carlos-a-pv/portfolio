@@ -225,12 +225,12 @@
     {
       "name": "Guess who is?",
       "isActive": true,
-      "description": "App juego adivinando el personaje con la imagen ",
+      "description": "App juego para adivinar el personaje de la imagen",
       "highlights": [
         "Adivina quien es",
-        "interactivo"
+        "EN PROCESO..."
       ],
-      "url": "https://carlos-a-pv.github.io/nationalize/public/"
+      "url": ""
     }
-  ]
+    ]
 }
