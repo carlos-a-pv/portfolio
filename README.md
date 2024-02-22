@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 <div align="center">
@@ -102,3 +103,7 @@ pnpm dev
 
 
 
+=======
+# portfolio
+Portfolio diseñado solo configurando el CV.json, proyecto de @midudev 
+>>>>>>> c49f0dff99ef2bc1d5b293c7788580815052e5d7
